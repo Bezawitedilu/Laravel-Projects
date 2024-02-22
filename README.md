@@ -1,6 +1,6 @@
-Certainly! Here's the README without the screenshots:
+# **Laravel Projects**
 
----
+# Project 1
 
 # Attendance Management System Dashboard
 
