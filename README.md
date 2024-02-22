@@ -66,4 +66,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Just as before, remember to replace `<repository-url>` with the actual URL of your Git repository and customize other sections as needed.
+
