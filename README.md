@@ -19,7 +19,7 @@ This is an Attendance Management System Dashboard built using Laravel. The syste
 1. Clone the repository to your local machine:
     ```bash
     git clone https://github.com/Bezawitedilu/Laravel-Projects.git
-        ```
+    ```
 2. Navigate to the project directory:
     ```bash
     cd attendance-management-system
